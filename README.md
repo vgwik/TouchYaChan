@@ -1,3 +1,6 @@
+### Fork原仓库，创建一个TouchYaChan
+>下面的原仓库的说明，未做出更改
+
 <p align="center">
   <a href="https://xingye.me/game/eatkano"><img src="https://github.com/arcxingye/EatKano/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="EatKano"></a>
 </p>
